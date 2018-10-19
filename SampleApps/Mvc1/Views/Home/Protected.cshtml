@@ -1,0 +1,13 @@
+﻿
+</br>
+
+<h4>@ViewData["Message"]</h4>
+<h4>Here you're claims :</h4>
+
+<dl>
+    @foreach (var claim in User.Claims)
+    {
+        <dt>@claim.Type</dt>
+        <dd>@claim.Value</dd>
+    }
+</dl>
