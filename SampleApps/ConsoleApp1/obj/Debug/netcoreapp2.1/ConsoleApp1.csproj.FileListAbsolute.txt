@@ -1,0 +1,11 @@
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+D:\git\IdentityServerDemo\SampleApps\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb

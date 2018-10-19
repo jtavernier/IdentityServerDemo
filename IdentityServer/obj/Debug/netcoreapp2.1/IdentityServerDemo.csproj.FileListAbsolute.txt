@@ -1,0 +1,14 @@
+D:\git\IdentityServerDemo\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServerDemo.deps.json
+D:\git\IdentityServerDemo\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServerDemo.runtimeconfig.json
+D:\git\IdentityServerDemo\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServerDemo.runtimeconfig.dev.json
+D:\git\IdentityServerDemo\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServerDemo.dll
+D:\git\IdentityServerDemo\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServerDemo.pdb
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.csprojAssemblyReference.cache
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.csproj.CoreCompileInputs.cache
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.RazorAssemblyInfo.cache
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.RazorAssemblyInfo.cs
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.AssemblyInfoInputs.cache
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.AssemblyInfo.cs
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.RazorTargetAssemblyInfo.cache
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.dll
+D:\git\IdentityServerDemo\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServerDemo.pdb
