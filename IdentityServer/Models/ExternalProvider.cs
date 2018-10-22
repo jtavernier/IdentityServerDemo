@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Edft.Security.IdentityServer.Models
+namespace IdentityServerDemo.IdentityServer.Models
 {
     public class ExternalProvider
     {

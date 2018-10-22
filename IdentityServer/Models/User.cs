@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Edft.Security.IdentityServer.Models
+namespace IdentityServerDemo.IdentityServer.Models
 {
     public class User
     {

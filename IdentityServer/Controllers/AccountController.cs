@@ -13,12 +13,12 @@ using Microsoft.AspNetCore.Http;
 using IdentityServer4;
 using Microsoft.Extensions.DependencyInjection;
 using IdentityServer4.Extensions;
-using Edft.Security.IdentityServer.Models;
+using IdentityServerDemo.IdentityServer.Models;
 using IdentityServer4.Stores;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Principal;
 
-namespace Edft.Security.IdentityServer.Controllers
+namespace IdentityServerDemo.IdentityServer.Controllers
 {
     public class AccountController : Controller
     {
